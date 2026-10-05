@@ -19,6 +19,7 @@ undergraduate at University of Westminster.
 
 🛠️ Languages and Tools :
 
-Java   Python   JavaScript   React   Next.js
-Flask  FastAPI  SQL    Git     Docker
+## 🛠️ Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nextjs,nodejs,bootstrap,git,docker,mysql,mongodb)](https://skillicons.dev)
 ...
