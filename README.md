@@ -10,7 +10,9 @@ Hi, I'm Dinushi Wanniarachchi, a final-year Computer Science
 undergraduate at University of Westminster.
 
 • 🚀 Passionate about software development and AI
+
 • 💻 Currently working on my Final Year Project
+
 • 📫 Reach me at dinushinwanniarachchi@gmail.com
 
 ────────────────────────────────────
