@@ -1,6 +1,7 @@
+   ## hey there 👋
 ────────────────────────────────────
 
-👩‍💻 About Me :
+## 👩‍💻 About Me :
 
 Hi, I'm Dinushi Wanniarachchi, a final-year Computer Science
 undergraduate at University of Westminster.
@@ -12,8 +13,6 @@ undergraduate at University of Westminster.
 • 📫 Reach me at dinushinwanniarachchi@gmail.com
 
 ────────────────────────────────────
-
-🛠️ Languages and Tools :
 
 ## 🛠️ Languages and Tools
 
