@@ -1,7 +1,3 @@
-          LINKEDIN     GITHUB
-
-              hey there 👋
-
 ────────────────────────────────────
 
 👩‍💻 About Me :
