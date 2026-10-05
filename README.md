@@ -21,5 +21,5 @@ undergraduate at University of Westminster.
 
 ## 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nextjs,nodejs,bootstrap,git,docker,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,git,docker,mysql,mongodb)](https://skillicons.dev)
 ...
